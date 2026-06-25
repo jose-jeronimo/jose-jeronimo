@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jose
 
-<!--
-**jose-jeronimo/jose-jeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioprocess Engineer with 3+ years of industry experience.
 
-Here are some ideas to get you started:
+Currently pursuing a Master's in Analytical and Computational Methods with a focus on computational biology, bioinformatics, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- Computational Biology
+- Systems Biology
+- Bioinformatics
+- Single-Cell Omics
+- Biomedical AI
+
+## Current Projects
+
+- Genome-scale metabolic modelling
+- Single-cell transcriptomics analysis
+- Machine learning for biological data
