@@ -2,7 +2,9 @@
 
 Bioprocess Engineer with 3+ years of industry experience.
 
-Currently pursuing a Master's in Analytical and Computational Methods with a focus on computational biology, bioinformatics, and machine learning.
+Currently pursuing a Master's in OMICs Technologies and Data Science in Biomedicine with a focus on computational biology, bioinformatics, and machine learning.
+
+Independently exploring the potential of AI as coding tool
 
 ## Current Interests
 
@@ -15,5 +17,5 @@ Currently pursuing a Master's in Analytical and Computational Methods with a foc
 ## Current Projects
 
 - Genome-scale metabolic modelling
-- Single-cell transcriptomics analysis
+- Sequencing Data Analysis
 - Machine learning for biological data
