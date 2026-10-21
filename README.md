@@ -15,6 +15,12 @@ Portfolio and write-ups: https://jose-jeronimo.pages.dev
 | [dark_proteome](https://github.com/jose-jeronimo/dark_proteome) | ML pipeline predicting protein detectability by LC-MS/MS from sequence and transcript features |
 | [gemAGT](https://github.com/jose-jeronimo/gemAGT) | Agentic environment for genome-scale metabolic model curation: the scientist owns the biology, the AI runs the code |
 
+## Tools I've built
+
+- [study-book](https://github.com/jose-jeronimo/study-book): a Claude Code skill that turns
+  course PDFs into a compiled LaTeX study book, with every paragraph tagged to its source page.
+  Early version, feedback welcome.
+
 ## Tools
 
 Python · R · Bash · Scanpy · scikit-learn · Git
